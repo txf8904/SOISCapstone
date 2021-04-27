@@ -1,0 +1,58 @@
+*
+{
+    margin:  0;
+    padding: 0;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+
+body
+{
+    background-color: rgb(20,8,8);
+}
+
+#header
+{
+    background-color: black;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+}
+
+.nav
+{
+    overflow: hidden;
+    background-color: rgb(80, 0, 0);
+}
+
+.nav a
+{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.nav a:hover
+{
+    background-color: darkred;
+    font-weight: bold;
+}
+
+.nav a.active
+{
+    background-color: rgb(20,8,8);
+    color:white;
+    font-weight: bold;
+}
+
+.footer
+{
+    position: sticky;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(80, 0, 0);
+    color:white;
+}

@@ -1,0 +1,60 @@
+.characterBox
+{
+    display: block;
+    color:white;
+    border: 1px rgb(150,0,0) groove;
+    margin: 20px auto;
+    width: 90%;
+    height: 300px;
+    box-shadow: 0 4px 8px rgba(150,0,0,0.5);
+    /* display: inline-block;
+    height: auto;
+    position: relative; */
+}
+
+.card
+{
+    padding: 20px;
+    height: 100%;
+}
+
+h1
+{
+    color: white;
+    font-size: 100px;
+    margin-bottom: 15px;
+}
+
+img
+{
+    float: right;
+    width: 160px;
+    height: 250px;
+    border: 2px lightgray outset;
+}
+
+h3
+{
+    text-align: left;
+    font-size: 60px;
+}
+
+h4
+{
+    text-align: left;
+    font-size: 40px;
+    color: lightgray;
+    text-shadow: 0 4px 8px rgba(200,0,0,0.5);
+}
+
+h5
+{
+    text-align: left;
+    font-size: 30px;
+}
+
+h6
+{
+    font-size: 30px;
+    font-style: italic;
+}

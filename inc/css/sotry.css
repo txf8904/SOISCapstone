@@ -1,0 +1,24 @@
+#storyMain
+{
+    margin: 15px;
+    padding: 30px;
+    border: 2px double red;
+    color: white;
+}
+
+h1
+{
+    font-size: 150px;
+    border-bottom: 2px dashed red;
+}
+
+h2
+{
+    font-size: 60px;
+}
+
+h3
+{
+    margin: 20px;
+    font-size: 30px;
+}
